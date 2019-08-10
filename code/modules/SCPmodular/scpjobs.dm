@@ -1,3 +1,5 @@
+//ADD THESE JOBS TO THE ALLOWED JOBS LIST ON YOUR MAP OR IT WILL NOT WORK
+
 /datum/job/scp173
 	title = "SCP-173"
 	department_flag = MSC
