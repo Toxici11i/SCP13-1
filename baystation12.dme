@@ -2745,6 +2745,8 @@
 #include "code\modules\research\designs\designs_syringe.dm"
 #include "code\modules\research\designs\designs_tool.dm"
 #include "code\modules\research\designs\designs_weapon.dm"
+#include "code\modules\SCPmodular\jobprocs.dm"
+#include "code\modules\SCPmodular\scpjobs.dm"
 #include "code\modules\SCPmodular\scpreagents\amnestics.dm"
 #include "code\modules\SCPmodular\scpreagents\reagent-recipes.dm"
 #include "code\modules\SCPmodular\scps\euclid\SCP-012.dm"
